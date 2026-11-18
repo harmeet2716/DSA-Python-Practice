@@ -1,0 +1,17 @@
+class solution:
+    def searchInsert(self,nums:list[int],target:int)->int:
+        for i in range(len(nums)):
+            if nums[i]==target:
+                return i 
+            elif nums[i]>target:
+                return i
+            
+        return len(nums)
+    
+nums=list(map(int ,input("Ehter the array values : ").split()))
+target = int(input("enter the value to find : "))
+
+obj = solution()
+
+answer=obj.searchInsert(nums,target)
+print("Output : ",answer)
