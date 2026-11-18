@@ -1,4 +1,4 @@
-<bold>DSA with Python | LeetCode Practice</bold>
+<h1>DSA with Python | LeetCode Practice</h1>
 <p align="center">   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" />   <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />   <img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green?style=for-the-badge" />   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" /> </p>
 
 <br></br>
