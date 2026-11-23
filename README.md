@@ -1,21 +1,18 @@
-<!-- ============================================================ -->
-<!--  PYTHON LEARNING  |  MIDNIGHT NEON LANDING PAGE              -->
-<!--  Replace YOUR_GITHUB_USERNAME to activate profile links      -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-<!-- HERO: animated twinkling starfield over a midnight gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:020617,40:0B1340,75:1E1065,100:0E7490&animation=twinkling&section=header&text=PYTHON&fontSize=96&fontColor=E0F7FF&fontAlign=50&fontAlignY=36&stroke=00E5FF&strokeWidth=1&desc=L%20E%20A%20R%20N%20I%20N%20G%20%20%20L%20A%20B&descSize=18&descAlign=50&descAlignY=58" width="100%" alt="Python Learning Lab hero" />
+<!-- HERO IMAGE -->
+<img src="./assets/banner.png" width="100%" alt="Learning Python - cinematic coding desk" />
 
-<!-- PYTHON LOGO -->
-<img src="https://cdn.simpleicons.org/python/00E5FF" width="84" height="84" alt="Python logo" />
+<br/>
+
+<!-- GRADIENT ACCENT LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020617,20:3B82F6,50:00E5FF,80:8B5CF6,100:020617" width="100%" alt="" />
 
 <br/><br/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&letterSpacing=2px&width=760&height=48&lines=Build+with+Python.;Think+in+Algorithms.;Ship+Ideas+Into+Reality.;Learn.+Build.+Evolve." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&letterSpacing=2px&width=760&height=48&lines=Consistency+%3E+Perfection;Build+with+Python.;Think+in+Algorithms.;Learn.+Build.+Evolve." alt="Typing animation" />
 </a>
 
 <br/>
@@ -23,7 +20,7 @@
 <!-- BADGES -->
 <img src="https://img.shields.io/badge/PYTHON-3.x-00E5FF?style=for-the-badge&logo=python&logoColor=00E5FF&labelColor=020617" alt="Python" />
 <img src="https://img.shields.io/badge/STATUS-EVOLVING-8B5CF6?style=for-the-badge&labelColor=020617" alt="Status" />
-<img src="https://img.shields.io/badge/MODE-DARK-3B82F6?style=for-the-badge&labelColor=020617" alt="Mode" />
+<img src="https://img.shields.io/badge/EDITOR-VS%20CODE-3B82F6?style=for-the-badge&logo=visualstudiocode&logoColor=3B82F6&labelColor=020617" alt="Editor" />
 
 <br/><br/>
 
@@ -57,11 +54,12 @@
 <br/>
 
 ```python
->>> import growth
->>> while True:
-...     growth.learn()
-...     growth.build()
-...     growth.repeat()
+def learn_python():
+    return "Consistency > Perfection"
+
+
+if __name__ == "__main__":
+    print(learn_python())
 ```
 
 <div align="center">
@@ -98,7 +96,7 @@
 
 <br/><br/>
 
-<!-- FOOTER: animated starfield + gradient wave -->
+<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0E7490,35:1E1065,70:0B1340,100:020617&animation=twinkling&section=footer&reversal=true&text=Keep%20Building&fontSize=34&fontColor=E0F7FF&fontAlignY=62" width="100%" alt="Footer" />
 
 </div>
