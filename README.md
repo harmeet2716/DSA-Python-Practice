@@ -1,237 +1,104 @@
-
-<!-- ========================================= -->
-<!--          PYTHON LEARNING README           -->
-<!-- ========================================= -->
+<!-- ============================================================ -->
+<!--  PYTHON LEARNING  |  MIDNIGHT NEON LANDING PAGE              -->
+<!--  Replace YOUR_GITHUB_USERNAME to activate profile links      -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=750&lines=Welcome+to+My+Python+Journey+%F0%9F%90%8D;Learning+Python+Step+by+Step;Mastering+DSA+%26+Problem+Solving;Building+Real+World+Projects+%F0%9F%9A%80" />
+<!-- HERO: animated twinkling starfield over a midnight gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:020617,40:0B1340,75:1E1065,100:0E7490&animation=twinkling&section=header&text=PYTHON&fontSize=96&fontColor=E0F7FF&fontAlign=50&fontAlignY=36&stroke=00E5FF&strokeWidth=1&desc=L%20E%20A%20R%20N%20I%20N%20G%20%20%20L%20A%20B&descSize=18&descAlign=50&descAlignY=58" width="100%" alt="Python Learning Lab hero" />
+
+<!-- PYTHON LOGO -->
+<img src="https://cdn.simpleicons.org/python/00E5FF" width="84" height="84" alt="Python logo" />
+
+<br/><br/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&letterSpacing=2px&width=760&height=48&lines=Build+with+Python.;Think+in+Algorithms.;Ship+Ideas+Into+Reality.;Learn.+Build.+Evolve." alt="Typing animation" />
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Consistency-Everyday-success?style=for-the-badge" />
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/PYTHON-3.x-00E5FF?style=for-the-badge&logo=python&logoColor=00E5FF&labelColor=020617" alt="Python" />
+<img src="https://img.shields.io/badge/STATUS-EVOLVING-8B5CF6?style=for-the-badge&labelColor=020617" alt="Status" />
+<img src="https://img.shields.io/badge/MODE-DARK-3B82F6?style=for-the-badge&labelColor=020617" alt="Mode" />
 
-<h3> My Journey From Python Beginner to Developer</h3>
+<br/><br/>
 
-<p>
-Learning • Practicing • Building • Improving
-</p>
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,25:3B82F6,50:00E5FF,75:8B5CF6,100:020617" width="85%" alt="" />
+
+<br/><br/>
+
+<!-- SECTION LABEL -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=64&color=0:0B1340,100:1E1065&text=PHILOSOPHY&fontSize=22&fontColor=00E5FF&fontAlignY=52&stroke=3B82F6&strokeWidth=1" width="260" alt="Philosophy" />
+
+<br/><br/>
+
+<!-- GLASS CARDS -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:0B1340,100:0F172A&text=LEARN&fontSize=34&fontColor=00E5FF&fontAlignY=42&desc=Fundamentals&descSize=15&descAlignY=66&animation=fadeIn&stroke=00E5FF&strokeWidth=1" width="31%" alt="Learn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:0F172A,100:1E1065&text=BUILD&fontSize=34&fontColor=60A5FA&fontAlignY=42&desc=Real%20Projects&descSize=15&descAlignY=66&animation=fadeIn&stroke=3B82F6&strokeWidth=1" width="31%" alt="Build" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:1E1065,100:0F172A&text=EVOLVE&fontSize=34&fontColor=C4B5FD&fontAlignY=42&desc=Agentic%20AI&descSize=15&descAlignY=66&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="31%" alt="Evolve" />
+
+<br/><br/>
+
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,25:8B5CF6,50:00E5FF,75:3B82F6,100:020617" width="85%" alt="" />
+
+<br/><br/>
+
+<!-- SECTION LABEL -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=64&color=0:0B1340,100:1E1065&text=TERMINAL&fontSize=22&fontColor=00E5FF&fontAlignY=52&stroke=3B82F6&strokeWidth=1" width="260" alt="Terminal" />
 
 </div>
 
----
-
-## 👨‍💻 About This Repository
-
-Welcome to my Python learning journey!
-
-This repository documents my progress in learning Python programming, strengthening problem-solving skills, mastering Data Structures & Algorithms, and building practical projects.
-
-My goal is not just to learn syntax, but to understand how programming works and become a confident developer.
+<br/>
 
 ```python
-class PythonJourney:
-
-    def __init__(self):
-        self.name = "Python Developer in Progress"
-        self.language = "Python"
-        self.focus = [
-            "Core Python",
-            "Data Structures & Algorithms",
-            "Problem Solving",
-            "Projects",
-            "Agentic AI"
-        ]
-        self.status = "Learning Every Day"
-
-    def goal(self):
-        return "Learn. Build. Improve. Repeat."
-
-
-me = PythonJourney()
-print(me.goal())
+>>> import growth
+>>> while True:
+...     growth.learn()
+...     growth.build()
+...     growth.repeat()
 ```
-
----
-
-## 🎯 Learning Roadmap
-
-| Stage | Topic | Status |
-|---|---|---|
-| 01 | Python Fundamentals | 🔄 Learning |
-| 02 | Variables & Data Types | 🔄 Learning |
-| 03 | Conditional Statements | 🔄 Learning |
-| 04 | Loops & Functions | 🔄 Learning |
-| 05 | Lists, Tuples & Sets | 🔄 Learning |
-| 06 | Dictionaries & Strings | 🔄 Learning |
-| 07 | Object-Oriented Programming | ⏳ Upcoming |
-| 08 | File Handling & Exceptions | ⏳ Upcoming |
-| 09 | Data Structures & Algorithms | 🔄 Practicing |
-| 10 | Python Projects | ⏳ Upcoming |
-
----
-
-## 🧠 Data Structures & Algorithms
-
-Currently improving my problem-solving skills through coding challenges.
-
-### Topics I'm Practicing
-
-- [x] Array fundamentals
-- [x] Searching techniques
-- [x] Missing number problems
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Hash Maps
-- [ ] Sorting Algorithms
-- [ ] Binary Search
-- [ ] Recursion
-- [ ] Stack & Queue
-- [ ] Linked Lists
-- [ ] Trees & Graphs
-- [ ] Dynamic Programming
-
-### My Problem-Solving Approach
-
-```python
-def solve_problem(problem):
-
-    understand = True
-    analyze = True
-    write_code = True
-    test_solution = True
-
-    if understand and analyze:
-        print("Breaking down the problem...")
-
-    if write_code:
-        print("Implementing solution...")
-
-    if test_solution:
-        print("Testing edge cases...")
-
-    return "Problem Solved! 🚀"
-```
-
----
-
-## 📊 Learning Progress
 
 <div align="center">
 
-<img src="https://progress-bar.dev/35/?title=Python%20Learning&width=400&color=3776AB" />
+<br/>
+
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,25:3B82F6,50:00E5FF,75:8B5CF6,100:020617" width="85%" alt="" />
 
 <br/><br/>
 
-<img src="https://progress-bar.dev/25/?title=DSA%20Practice&width=400&color=2E8B57" />
+<!-- SECTION LABEL -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=64&color=0:0B1340,100:1E1065&text=STACK&fontSize=22&fontColor=00E5FF&fontAlignY=52&stroke=3B82F6&strokeWidth=1" width="260" alt="Stack" />
 
 <br/><br/>
 
-<img src="https://progress-bar.dev/10/?title=Projects&width=400&color=FF9800" />
-
-</div>
-
-<sub>Progress bars are illustrative starting values. Update them as you advance.</sub>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,docker" />
-
-</div>
-
-| Tool | Purpose |
-|---|---|
-| Python | Programming Language |
-| VS Code | Code Editor |
-| Git | Version Control |
-| GitHub | Code Repository |
-| Linux | Development Environment |
-
----
-
-## 📁 Repository Structure
-
-```text
-PYTHON-LEARNING/
-│
-├── 01_Basics/
-│   ├── variables.py
-│   ├── datatypes.py
-│   └── operators.py
-│
-├── 02_Conditions/
-│   ├── if_else.py
-│   └── nested_conditions.py
-│
-├── 03_Loops/
-│   ├── for_loop.py
-│   └── while_loop.py
-│
-├── 04_Data_Structures/
-│   ├── lists.py
-│   ├── tuples.py
-│   ├── sets.py
-│   └── dictionaries.py
-│
-├── 05_Functions/
-│
-├── 06_OOP/
-│
-├── 07_DSA/
-│   ├── arrays/
-│   ├── searching/
-│   ├── sorting/
-│   └── problem_solving/
-│
-└── 08_Projects/
-```
-
----
-
-## 🔥 My Developer Mindset
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-### Consistency beats motivation.
-
-**One problem. One concept. One step forward. Every day.**
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,docker,fastapi,jupyter&theme=dark&perline=8" alt="Stack" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,25:8B5CF6,50:00E5FF,75:3B82F6,100:020617" width="85%" alt="" />
 
-</div>
+<br/><br/>
 
----
+<!-- SECTION LABEL -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=64&color=0:0B1340,100:1E1065&text=CONNECT&fontSize=22&fontColor=00E5FF&fontAlignY=52&stroke=3B82F6&strokeWidth=1" width="260" alt="Connect" />
 
-<div align="center">
+<br/><br/>
 
-###  Keep Coding. Keep Growing.
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=020617&labelColor=00E5FF&color=00E5FF" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3B82F6&color=3B82F6" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B5CF6&color=8B5CF6" alt="Email" /></a>
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" />
+<br/><br/>
 
-**Thanks for visiting my Python Learning Repository!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" />
+<!-- FOOTER: animated starfield + gradient wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0E7490,35:1E1065,70:0B1340,100:020617&animation=twinkling&section=footer&reversal=true&text=Keep%20Building&fontSize=34&fontColor=E0F7FF&fontAlignY=62" width="100%" alt="Footer" />
 
 </div>
